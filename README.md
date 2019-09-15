@@ -1,3 +1,2 @@
-# test-sync-repo
-Testing Repo to automatically build code when git remote changes are made
-Test
+# misc
+A repo to contain misc files created during random hacking sessions
